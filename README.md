@@ -1,6 +1,6 @@
 # AI_Image_Sheet_Project
 
-readme_content = """
+
 # 🖼️ Automated Image Generation with Google Sheets & Stable Diffusion
 
 This project automates the generation of images based on prompts stored in a Google Sheets document. It uses the **Stable Diffusion v1.5** model from Hugging Face and integrates with Google Sheets API to read and update data.
