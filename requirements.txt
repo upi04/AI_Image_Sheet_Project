@@ -1,0 +1,9 @@
+python-dotenv
+requests
+gspread
+oauth2client
+replicate
+diffusers
+torch
+transformers
+accelerate
