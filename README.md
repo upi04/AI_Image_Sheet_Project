@@ -7,16 +7,16 @@ This project automates the generation of images based on prompts stored in a Goo
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ Automatically reads image prompts from a Google Sheet  
-- 🧠 Generates images using Stable Diffusion v1.5 (offline or with Hugging Face)  
-- 💾 Saves images to a local folder  
-- 🔁 Uploads the generated image URL back to Google Sheets  
+-  Automatically reads image prompts from a Google Sheet  
+-  Generates images using Stable Diffusion v1.5 (offline or with Hugging Face)  
+-  Saves images to a local folder  
+-  Uploads the generated image URL back to Google Sheets  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 ├── main.py                 # Main execution script
